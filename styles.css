@@ -1,0 +1,72 @@
+/* styles.css */
+
+nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-align: right;
+}
+a{
+    text-align: right;
+}
+.center-title {
+    text-align: center;
+}
+section {
+    margin: 20px;
+}
+
+figure {
+    margin: 0;
+    align-items: center;
+    text-align: center;
+
+}
+p{
+    text-align: center;
+}
+
+img {
+    width: auto ;/* Make images responsive within their container */
+    height: auto; /* Maintain aspect ratio */
+    text-align: center;
+
+   
+}
+h1{
+    text-align: center;
+}
+#heading{
+    padding-left: 10%;
+    text-align: left;
+    padding-right: 45%;
+}
+
+footer{
+    align-items: center;
+    text-align: center;
+    background-color: #070707;
+}
+#main{
+    color: white;
+}
+
+.pictures {
+    display: flex;
+   align-items: center;
+   text-align: center;
+   justify-content: center;
+}
+article{
+    text-align: center;
+
+    border: 2px solid black; 
+}
